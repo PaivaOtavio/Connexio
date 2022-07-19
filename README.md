@@ -21,7 +21,7 @@ Você precisa ter o nodejs na última versão LTS e o NPM (node package manager)
 
 > Clone o projeto
 ```bash
-git clone https://github.com/PaivaOtavio/ProjetoConnexio.git
+git clone https://github.com/PaivaOtavio/Connexio.git
 ```
 > Instale as dependências
 ```bash
