@@ -146,13 +146,13 @@ export default {
 .details-container {
   h2 {
     font-style: normal;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 600;
     font-size: 32px;
     line-height: 39px;
   }
   p {
-    font-family: "Montserrat";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
