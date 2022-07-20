@@ -1,39 +1,42 @@
-<h2 align="center"> Descrição </h2>
+<h2 align="center">Connexio</h2>
 
 ![logo](https://user-images.githubusercontent.com/103431487/180070211-55945d1f-7f45-4ef1-84b4-84cdfbf2d57d.png)
-Connexio é um sistema web desenvolvido para a cadeira de projeto integrado I do curso de Sistemas e mídias digitais no semestre 2022.1. Tem como finalidade ajudar alunos que buscam professores para serem seus mentores em projetos, pesquisas e outras atividades acadêmicas que necessariamente precisam de um orientador para o seu desenvolvimento. O projeto foi desenvolvido pela EquipeX e tem como integrantes os alunos Otávio Vieira de Paiva, Amanda Maria Lima Rodrigues, Fabrício dos Santos Bastos e Jhonatan dos Santos Bastos.
 
-<br/>
-    <h3 align='center'>Acesse o projeto no heroku para testar: <a href='https://connexio.herokuapp.com/'><strong>Connexio</strong></a></h3>
-<br/>
+## O projeto
 
-email: admin@connexio.com
-senha: Abc@1234
+A Connexio é uma aplicação web que possui como objetivo facilitar a conexão entre professores e alunos do curso de Sistemas e Mídias Digitais, da Universidade Federal do Ceará, que possuem interesses em comum. O projeto foi desenvolvido durante a disciplina de Projeto Integrado I, no semestre 2022.2 pela Equipe X, formada por <strong>Otávio Vieira de Paiva</strong>, <strong>Amanda Maria Lima Rodrigues</strong>, <strong>Fabrício Ribeiro de Alencar</strong> e <strong>Jhonatan dos Santos Bastos</strong>.
 
-<h2 align="center"> Equipe </h2>
+## A equipe
 
-### DEVs
-[ Otavio Paiva- Github](https://github.com/PaivaOtavio)
+- [Otávio Paiva - Github](https://github.com/PaivaOtavio)
+- Amanda Lima
+- [Fabrício Ribeiro - LinkedIn](https://www.linkedin.com/in/fabricioishere/)
+- Jonathan Santos
 
-<h2 align="center"> Tecnologias </h2>
-<br/>
-    <a href="https://nodejs.org/en/">Node JS</a>
-<br/>
-    <a href="https://vuejs.org/">Vue JS</a>
-<br/>
-    <a href="https://www.javascript.com/">Javascript</a>
-<br/>
-    <a href="https://www.php.net/">PHP</a>
-<br/>
-    <a href="https://laravel.com/">Laravel</a>
-<br/>
+## Tecnologias
 
-    
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Node.js](https://nodejs.org/en/)
+- [Vue.js](https://vuejs.org/)
+- [Javascript](https://www.javascript.com/)
+- [PHP](https://www.php.net/)
+- [Laravel](https://laravel.com/)
 
-<h2 align="center"> Como instalar </h2>
+## Requisitos funcionais
 
-Você precisa ter o nodejs na última versão LTS e o NPM (node package manager). 
+[![requisitos.png](https://i.postimg.cc/YCNvSmXF/requisitos.png)](https://postimg.cc/5X047jW9)
+
+## Como executar
+
+Acesse o projeto no Heroku para testar: <a href='https://connexio.herokuapp.com/'><strong>Connexio</strong></a></h3>
+
+- E-mail: admin@connexio.com
+- Senha: Abc@1234
+
+## Como instalar
+
+Você precisa ter o Node.js na última versão LTS e o NPM (Node Package Manager). 
 
 > Clone o projeto
 ```bash
@@ -43,8 +46,7 @@ git clone https://github.com/PaivaOtavio/Connexio.git
 ```bash
 npm install 
 ```
-
-Rode o projeto
+> Rode o projeto
 ```bash
 npm run serve
 ```
