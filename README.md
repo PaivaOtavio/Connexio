@@ -1,7 +1,7 @@
 <h2 align="center"> Descrição </h2>
-![logo](https://user-images.githubusercontent.com/103431487/180067263-80a60e6d-e2b7-4627-8012-6d161ddb40f3.png)
 
-Connexio
+![logo](https://user-images.githubusercontent.com/103431487/180070211-55945d1f-7f45-4ef1-84b4-84cdfbf2d57d.png)
+
 
 <br/>
     <h3 align='center'>Acesse o projeto no heroku para testar: <a href='https://connexio.herokuapp.com/'><strong>Connexio</strong></a></h3>
