@@ -21,7 +21,6 @@ senha: Abc@1234
 <br/>
     <a href="https://vuejs.org/">Vue JS</a>
 <br/>
-<br/>
     <a href="https://www.javascript.com/">Javascript</a>
 <br/>
 
