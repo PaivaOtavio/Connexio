@@ -17,9 +17,12 @@ senha: Abc@1234
 
 <h2 align="center"> Tecnologias </h2>
 <br/>
-    <a href="https://nodejs.org/en/">NODE JS</a>
+    <a href="https://nodejs.org/en/">Node JS</a>
 <br/>
-    <a href="https://vuejs.org/">VUE JS</a>
+    <a href="https://vuejs.org/">Vue JS</a>
+<br/>
+<br/>
+    <a href="https://www.javascript.com/">Javascript</a>
 <br/>
 
     
