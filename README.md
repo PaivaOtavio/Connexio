@@ -15,6 +15,16 @@ senha: Abc@1234
 ### DEVs
 [ Otavio Paiva- Github](https://github.com/PaivaOtavio)
 
+<h2 align="center"> Tecnologias </h2>
+<br/>
+    <a>https://vuejs.org/<a/>
+<br/>
+<br/>
+    <a>[https://vuejs.org/](https://nodejs.org/en/)<a/>
+<br/>
+
+    
+
 
 <h2 align="center"> Como instalar </h2>
 
