@@ -23,6 +23,10 @@ senha: Abc@1234
 <br/>
     <a href="https://www.javascript.com/">Javascript</a>
 <br/>
+    <a href="https://www.php.net/">PHP</a>
+<br/>
+    <a href="https://laravel.com/">Laravel</a>
+<br/>
 
     
 
